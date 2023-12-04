@@ -31,7 +31,7 @@ def energy_data():
     # MQTT-Broker-Konfiguration
     broker_address = "" #Adresse der Schleifmaschine (Darf nicht mit hochgeladen werden)
     broker_port = 1883
-    topic = "test/topic"
+    topic = "" #Topic der Energiedaten wählen
     global energie_antwort
 
     # Callback-Funktion, die aufgerufen wird, wenn eine Nachricht empfangen wird
