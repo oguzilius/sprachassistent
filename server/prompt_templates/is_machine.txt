@@ -1,0 +1,37 @@
+<|im_start|>
+Benutzeranfrage: Was ist mit der Maschine?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche technologischen Fortschritte haben die Automobilindustrie in Bezug auf die Effizienz von Verbrennungsmotoren gemacht?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie funktioniert die Steuerung einer CNC-Maschine in der Fertigungsindustrie?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche Sicherheitsmaßnahmen sind in Robotersystemen implementiert, um Mensch-Roboter-Kollaboration sicherer zu gestalten?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche Auswirkungen haben Klimawandel und Umweltverschmutzung auf die Artenvielfalt in Ozeanen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie beeinflusst die Urbanisierung die Umwelt in städtischen Gebieten?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Maschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>

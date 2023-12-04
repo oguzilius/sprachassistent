@@ -1,0 +1,92 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+
+#chatContainer {
+	width: 60vh;
+	height: 80vh;
+	background-color: #fff;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+#chatBox {
+	flex-grow: 1;
+	overflow-y: scroll;
+	padding: 10px;
+	background-color: #f9f9f9;
+}
+
+.message {
+	display: flex;
+	align-items: center;
+	margin: 5px;
+	padding: 8px;
+	border-radius: 20px;
+	background-color: #e6e6e6;
+	max-width: 70%;
+}
+
+.userMessage {
+	margin-left: auto;
+	background-color: #d0d0d0;
+}
+
+.assistantMessage {
+	background-color: #e6e6e6;
+}
+
+.profileImage img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+	background-color: rgb(167, 170, 172);
+    object-fit: cover; /* Sorgt dafür, dass das Bild richtig in den Kreis passt */
+	margin: 0 10px; /* Abstand vom Text */
+}
+
+#inputContainer {
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	background-color: #fff;
+	border-top: 1px solid #ddd;
+}
+
+#messageInput {
+	flex-grow: 1;
+	padding: 8px;
+	margin-right: 10px;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+}
+
+button {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	font-size: 16px;
+	color: #6c757d;
+}
+
+#deleteFilePopup {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+	z-index: 1000;
+}

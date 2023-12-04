@@ -1,0 +1,37 @@
+<|im_start|>
+Benutzeranfrage: Was ist mit der Maschine los?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie funktioniert eine Schleifmaschine in der metallverarbeitenden Industrie?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche Arten von Fräsmaschinen werden in der Metallbearbeitung eingesetzt und wofür?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche Rolle spielen Robotik und Automatisierung in der Lebensmittelverarbeitung und Verpackungsindustrie?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie wirkt sich die Auswahl des Schleifmittels auf die Qualität und Geschwindigkeit des Schleifprozesses aus?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welche Sicherheitsvorkehrungen sollten bei der Verwendung einer Schleifmaschine getroffen werden, um Verletzungen zu vermeiden?
+Programmfrage: Bezieht sich die Benutzeranfrage auf eine Schleifmaschine?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>

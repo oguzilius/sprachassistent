@@ -1,0 +1,7 @@
+{
+    "CHATGPT_MODEL":"gpt0301",
+    "COMPLETIONS_MODEL":"text_davinci_003",
+    "OPENAI_API_BASE":"https://sprachassistent-dev.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-03-15-preview",
+    "SERVICE_REGION":"uksouth"
+}

@@ -1,0 +1,49 @@
+<|im_start|>
+Benutzeranfrage: Was ist mit der Maschine los?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie entwickelten sich die Qualitätsdaten in den vergangenen Tagen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Konnte eine spezielle Ursache für die Qualitätsschwankungen in den Daten identifiziert werden?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie präsentierten sich die Qualitätsdaten in den letzten Tagen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie wirkten sich externe Einflüsse wie Temperaturschwankungen auf die Qualität der Schleifmaschine aus?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie verlief die Entwicklung der Qualitätsdaten in den letzten Tagen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Welches Bild zeichnen die Qualitätsdaten der letzten Tagen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie verlief die Qualität der Werkstücke während unterschiedlicher Schichtzeiten oder Betriebsphasen der Schleifmaschine?
+Programmfrage: Bezieht sich die Benutzeranfrage auf den Verlauf der Qualitätsdaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>

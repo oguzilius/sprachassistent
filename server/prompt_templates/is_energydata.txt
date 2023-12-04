@@ -1,0 +1,30 @@
+<|im_start|>
+Benutzeranfrage: Was ist mit der Maschine los?
+Programmfrage: Bezieht sich die Benutzeranfrage auf die Energiedaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie lauten die Energiedaten?
+Programmfrage: Bezieht sich die Benutzeranfrage auf die Energiedaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Konnte eine spezielle Ursache für die Qualitätsschwankungen in den Daten identifiziert werden?
+Programmfrage: Bezieht sich die Benutzeranfrage auf die Energiedaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie präsentierten sich die Energiedaten in den letzten Tagen?
+Programmfrage: Bezieht sich die Benutzeranfrage auf die Energiedaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 1
+<|im_end|>
+<|im_start|>
+Benutzeranfrage: Wie wirkten sich externe Einflüsse wie Temperaturschwankungen auf die Qualität der Schleifmaschine aus?
+Programmfrage: Bezieht sich die Benutzeranfrage auf die Energiedaten?
+Kontext: Wenn die Programmfrage zutrifft ist die Antwort 1, andernfalls 0 und wenn nicht genau gesagt werden kann ob es stimmt oder nicht ist die Antwort 2. Die Antwort darf nur eine Zahl beinhalten.
+Antwort: 0
+<|im_end|>
